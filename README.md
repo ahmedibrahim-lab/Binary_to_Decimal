@@ -37,7 +37,6 @@ This project contains a Python script that converts a binary string into its dec
 
 ### Example
 
-    ```bash
     Enter the binary sequence you want to convert: 1011
     Binary sequence is: 1011
     Decimal value is: 11
